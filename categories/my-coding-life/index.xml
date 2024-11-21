@@ -1,20 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>CSS on Joanna&#39;s Blog</title>
-    <link>/tags/css/</link>
-    <description>Recent content in CSS on Joanna&#39;s Blog</description>
+    <title>My Coding Life on Joanna&#39;s Blog</title>
+    <link>/categories/my-coding-life/</link>
+    <description>Recent content in My Coding Life on Joanna&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 17 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/css/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Start!</title>
-      <link>/posts/hugo-buildup-webpage/</link>
-      <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>/posts/hugo-buildup-webpage/</guid>
-      <description>&lt;p&gt;開始建立我的 Hugo Web page-待補充&lt;/p&gt;</description>
-    </item>
+    <atom:link href="/categories/my-coding-life/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>選擇ASTRO Camp的原因</title>
       <link>/posts/astro-capm/</link>
