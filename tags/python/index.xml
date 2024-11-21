@@ -9,6 +9,20 @@
     <lastBuildDate>Tue, 19 Nov 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="/tags/python/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Python-Function</title>
+      <link>/posts/py-function/</link>
+      <pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>/posts/py-function/</guid>
+      <description>&lt;h2 id=&#34;在-python-裡的函數&#34;&gt;在 Python 裡的函數&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>Python-LEGB</title>
+      <link>/posts/py--legb/</link>
+      <pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>/posts/py--legb/</guid>
+      <description>&lt;h2 id=&#34;function-的作用域&#34;&gt;Function 的作用域&lt;/h2&gt;</description>
+    </item>
+    <item>
       <title>Python-Set</title>
       <link>/posts/py-set/</link>
       <pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate>
@@ -21,13 +35,6 @@
       <pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate>
       <guid>/posts/py-tuple/</guid>
       <description>&lt;h2 id=&#34;什麼是tuple&#34;&gt;什麼是&lt;strong&gt;Tuple&lt;/strong&gt;&lt;/h2&gt;</description>
-    </item>
-    <item>
-      <title>Python-Function</title>
-      <link>/posts/py-function/</link>
-      <pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>/posts/py-function/</guid>
-      <description>&lt;h2 id=&#34;在-python-裡的函數&#34;&gt;在 Python 裡的函數&lt;/h2&gt;</description>
     </item>
     <item>
       <title>Python-裝飾器Decorator</title>

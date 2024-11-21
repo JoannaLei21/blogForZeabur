@@ -9,6 +9,20 @@
     <lastBuildDate>Tue, 19 Nov 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Python-Function</title>
+      <link>/posts/py-function/</link>
+      <pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>/posts/py-function/</guid>
+      <description>&lt;h2 id=&#34;在-python-裡的函數&#34;&gt;在 Python 裡的函數&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>Python-LEGB</title>
+      <link>/posts/py--legb/</link>
+      <pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>/posts/py--legb/</guid>
+      <description>&lt;h2 id=&#34;function-的作用域&#34;&gt;Function 的作用域&lt;/h2&gt;</description>
+    </item>
+    <item>
       <title>Python-Set</title>
       <link>/posts/py-set/</link>
       <pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate>
@@ -30,25 +44,18 @@
       <description>&lt;p&gt;解析 HTML 開頭的那些咒語們&lt;/p&gt;</description>
     </item>
     <item>
-      <title>JavaScript-Variable</title>
-      <link>/posts/js-variable-hosting/</link>
-      <pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>/posts/js-variable-hosting/</guid>
-      <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>JavaScript-閉包Closuer</title>
+      <title>JavaScript-Closuer</title>
       <link>/posts/js-closure/</link>
       <pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
       <guid>/posts/js-closure/</guid>
       <description>&lt;p&gt;關於 Closure 閉包與自由變數&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Python-Function</title>
-      <link>/posts/py-function/</link>
+      <title>JavaScript-Variable</title>
+      <link>/posts/js-variable-hosting/</link>
       <pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>/posts/py-function/</guid>
-      <description>&lt;h2 id=&#34;在-python-裡的函數&#34;&gt;在 Python 裡的函數&lt;/h2&gt;</description>
+      <guid>/posts/js-variable-hosting/</guid>
+      <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Python-裝飾器Decorator</title>
@@ -77,6 +84,13 @@
       <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
       <guid>/posts/astro-capm/</guid>
       <description>&lt;h2 id=&#34;轉職需要的不只是勇氣&#34;&gt;轉職需要的不只是勇氣&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>JavaScripts-Flow Control</title>
+      <link>/posts/js-flowcontrol/</link>
+      <pubDate>Mon, 28 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>/posts/js-flowcontrol/</guid>
+      <description>&lt;h2 id=&#34;流程控制-flow-control&#34;&gt;流程控制 Flow Control&lt;/h2&gt;&#xA;&lt;h2 id=&#34;heading&#34;&gt;&lt;/h2&gt;</description>
     </item>
   </channel>
 </rss>

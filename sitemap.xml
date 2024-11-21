@@ -2,19 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/categories/</loc>
-    <lastmod>2024-11-19T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/</loc>
     <lastmod>2024-11-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/categories/learning-code/</loc>
     <lastmod>2024-11-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/</loc>
+    <loc>/tags/python/</loc>
     <lastmod>2024-11-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/python/</loc>
+    <loc>/posts/py-function/</loc>
+    <lastmod>2024-11-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/py--legb/</loc>
     <lastmod>2024-11-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/posts/py-set/</loc>
@@ -38,19 +44,16 @@
     <loc>/tags/javascript/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/js-variable-hosting/</loc>
+    <loc>/posts/js-closure/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/js-closure/</loc>
+    <loc>/posts/js-variable-hosting/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/job/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/categories/job-hunting/</loc>
-    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/posts/py-function/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/posts/py-decorator/</loc>
@@ -67,5 +70,8 @@
   </url><url>
     <loc>/posts/astro-capm/</loc>
     <lastmod>2024-11-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/js-flowcontrol/</loc>
+    <lastmod>2024-10-28T00:00:00+00:00</lastmod>
   </url>
 </urlset>
